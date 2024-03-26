@@ -1,0 +1,7 @@
+discord:
+  bot:
+# token에는 실제 자신의 디스코드 봇 토큰 값을 넣어주시기 바랍니다.
+    token: 자신의 디스코드 봇 토큰값
+
+server:
+  port: 8080

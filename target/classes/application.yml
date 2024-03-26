@@ -1,0 +1,7 @@
+discord:
+  bot:
+#    TODO: 나중에 지우기
+    token: MTIxNjYxODEyMzM5OTEzOTMyOA.GX5_Id.tC1dZmWoQyzwi7dVrLgL4MUC9nGcHpqT2V58J8
+
+server:
+  port: 8080
